@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "630a17ad2cd3f104eb5f1eac"
+  },
+  "email": "hansa@gmail.com",
+  "username": "hansa",
+  "name": "Hansa",
+  "password": "$2b$10$MB1LPZ.S0VkiJiCazYEeAOKfghI8FRTZoK6PYw6yxL/EHevzp1R6i",
+  "profileImage": "https://picsum.photos/200/200",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661605805895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661605805898"
+    }
+  }
+}]
